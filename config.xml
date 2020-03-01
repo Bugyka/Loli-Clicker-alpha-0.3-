@@ -3,11 +3,11 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.loliclikerbyfirestormgames.androidexample"
     versionCode = "10"
-    version     = "0.0.3" >
+    version     = "0.3.1" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Loli Clicker (alpha 0.3)</name>
+  <name>Loli Clicker (alpha 0.3.1)</name>
 
   <description>
       Loli cliker
